@@ -56,8 +56,7 @@ The application will be available at `http://localhost:5173`
 - `npm run build` - Build for production
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
-- `npm run test:e2e` - Run Playwright E2E tests
-- `npm run test:e2e:ui` - Run Playwright tests with UI
+- `npm run test` - Run Playwright E2E tests
 
 ## Testing
 
